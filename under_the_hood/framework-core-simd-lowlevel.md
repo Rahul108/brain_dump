@@ -266,7 +266,7 @@ Vectorized computation → Memory → Framework Output
 
 
 
-## **5️⃣ Why Understanding This Matters**
+## **Why Understanding This Matters**
 
 SIMD, low-level languages, compiler optimizations, and CPU-level execution may seem like **deep technical topics**, but **knowing them gives you insight into framework performance, system design, and scalability**.
 
